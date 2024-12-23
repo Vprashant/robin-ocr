@@ -10,8 +10,6 @@ Robin OCR leverages advanced AI techniques, including deep learning and vision-l
 
 ### Robin OCR
 
-![Robin OCR Logo](images/robin_logo.png)
-
 ---
 
 **Robin OCR** is a state-of-the-art Optical Character Recognition (OCR) system that combines speed, accuracy, and flexibility to meet the demands of modern text recognition tasks. Inspired by the robin bird, this OCR is lightweight yet powerful, making it the perfect companion for your text extraction needs.
