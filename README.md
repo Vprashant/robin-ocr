@@ -9,7 +9,7 @@ Robin OCR leverages advanced AI techniques, including deep learning and vision-l
 
 ### Robin OCR
 
-![Robin OCR Logo](path/to/your/robin_logo.png)
+![Robin OCR Logo](images/robin_logo.png)
 
 ---
 
@@ -83,7 +83,7 @@ Access the UI at: [http://localhost:5000](http://localhost:5000)
 ### **Examples**
 
 #### **Text Extraction from Images**
-![Example Image](path/to/example_image.jpg)
+![Example Image](images/example_image.jpg)
 
 Output:
 ```
@@ -115,9 +115,6 @@ Robin OCR is licensed under the [MIT License](LICENSE).
 ---
 
 ### **Contact**
-For support, reach out to [your_email@example.com](mailto:your_email@example.com).
+For support, reach out to [your_email@example.com](mailto:prashant27050@gmail.com).
 
 ---
-
-### **Add the Robin Logo**
-Replace `path/to/your/robin_logo.png` with the actual path to your Robin logo file.
