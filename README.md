@@ -1,3 +1,4 @@
+![Robin OCR Logo](images/banner.png)
 ## **Description**
 **Robin OCR** is an intelligent and efficient Optical Character Recognition (OCR) system designed to accurately extract text from a variety of sources, including scanned documents, images, and infographics. Inspired by the agility and precision of the robin bird, Robin OCR is lightweight, fast, and adaptable, providing exceptional performance in diverse use cases such as document digitization, text extraction from complex layouts, and real-time text recognition in live environments.
 
